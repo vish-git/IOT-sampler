@@ -1,0 +1,19 @@
+{
+  "name": "iot-sampler",
+  "version": "1.0.0",
+  "description": "This IOT sampler contains example' using raspberry pi.",
+  "main": "ledserver.js",
+  "scripts": {
+	"start: "node ledserver.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vish-git/IOT-sampler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vish-git/IOT-sampler/issues"
+  },
+  "homepage": "https://github.com/vish-git/IOT-sampler#readme"
+}
